@@ -10,6 +10,7 @@ for price in prices:
   total_price += price
 
 # print(total_price)
+# test comment
 
 average_price = total_price/len(prices)
 print("Average Haircut Price:", average_price)
