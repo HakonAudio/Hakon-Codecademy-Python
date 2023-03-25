@@ -1,0 +1,15 @@
+# 13_AdvChallengeFlow3_AlwaysFalse
+# hakon.code@gmail.com
+
+def always_false(num):
+  if num < 0 or num >= 0:
+    return False
+
+
+# Uncomment these function calls to test your always_false function:
+print(always_false(0))
+# should print False
+print(always_false(-1))
+# should print False
+print(always_false(1))
+# should print False
